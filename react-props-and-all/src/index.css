@@ -1,0 +1,55 @@
+.student{
+  font-family:Arial,sans-serif;
+  font-size:2em;
+  padding: 10px;
+  border: 1px solid hsla(0,0%,50%,0.8)
+}
+
+.student p{
+  margin:0;
+}
+
+.welcome-message{
+  font-size: 2.5em;
+  background-color: green;
+  color:white;
+  padding:10px;
+  border-radius: 5px;
+  margin:0;
+}
+
+.login-prompt{
+  font-size: 2.5em;
+  background-color: red;
+  color:white;
+  padding:10px;
+  border-radius: 5px;
+  margin:0;
+}
+
+.list-category{
+  font-size:2.5em;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 10px;
+  text-align:center;
+  border: 3px solid;
+  border-radius: 5px;
+  background-color: black;
+}
+
+.list-items li{
+  font-size:2.5em;
+  font-weight: bold;
+  list-style: none;
+  color: rgb(14, 9, 9);
+  text-align:center;
+  margin:0;
+}
+
+.list-items li:hover{
+ 
+  color: rgb(238, 235, 7);
+  cursor:pointer;
+}
+
